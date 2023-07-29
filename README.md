@@ -8,4 +8,4 @@
 
 | Class # | Content |
 | ------- | ----- |
-| 1 |  [Class-33](/class33.md) |
+| 1 |  [Class-33](./class-33.md) |
