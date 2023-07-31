@@ -9,3 +9,4 @@
 | Class # | Content |
 | ------- | ----- |
 | 1 |  [Class-33](./class-33.md) |
+| 2 | [class-34](./class-34.md)  |
