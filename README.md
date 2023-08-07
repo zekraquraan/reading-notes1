@@ -10,3 +10,4 @@
 | ------- | ----- |
 | 1 |  [Class-33](./class-33.md) |
 | 2 | [class-34](./class-34.md)  |
+| 3 | [class-36](./class-36.md)  |
