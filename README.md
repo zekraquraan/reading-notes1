@@ -15,3 +15,4 @@
 | 5 | [class-38](./class-38.md)  |
 | 6 | [class-39](./class-39.md)  |
 | 7 | [class-40](./class-40.md)  |
+| 8 | [class-41](./class-41.md)  |
